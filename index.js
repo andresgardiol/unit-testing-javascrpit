@@ -1,7 +1,7 @@
 /*
     Link al problema de Advent of Code https://adventofcode.com/2020/day/2
 
-    Parte 1 - Entendiendo el problema
+    Capítulo 1, Parte 1 - Entendiendo el problema
 
 
     - ¿Cuál es el problema?
